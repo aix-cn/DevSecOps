@@ -8,11 +8,11 @@ DevSecOps是DevOps的理念的扩展。DevSecOps的目标是将安全嵌入到De
 
 
 #### DevSecOps Overview
-1.  [Zero-to-DevSecOps](https://github.com/lab-mj/DevSecOps/raw/master/0.DevSecOps%20Overview/Zero-to-DevSecOps.pdf)
-2.  [DevSecOps-What-Why-And-How](https://github.com/lab-mj/DevSecOps/blob/master/0.DevSecOps%20Overview/DevSecOps-What-Why-And-How.pdf) 
-3.  [Devsecops-Security-Test-automation](https://github.com/lab-mj/DevSecOps/blob/master/0.DevSecOps%20Overview/Devsecops-Security-Test-automation-briefing.pdf) 
+1.  [Zero-to-DevSecOps](https://github.com/lab-mj/DevSecOps/blob/main/0.DevSecOps%20Overview/Zero-to-DevSecOps.pdf)          
+3.  [DevSecOps-What-Why-And-How](https://github.com/lab-mj/DevSecOps/blob/main/0.DevSecOps%20Overview/DevSecOps-What-Why-And-How.pdf) 
+4.  [Devsecops-Security-Test-automation](https://github.com/lab-mj/DevSecOps/blob/main/0.DevSecOps%20Overview/Devsecops-Security-Test-automation-briefing.pdf) 
 
-https://github.com/lab-mj/DevSecOps/blob/main/1.DoD%20Enterprise%20DevSecOps/DoD-Enterprise-DevSecOps-2.0-Fundamentals.pdf
+
 
 #### DOD DevSecOps 
 

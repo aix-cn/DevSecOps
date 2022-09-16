@@ -78,4 +78,4 @@ DevSecOps是DevOps的理念的扩展。DevSecOps的目标是将安全嵌入到De
 ---------------------------------------------------------------------------------------------------------------------
 欢迎加群讨论：
 
-![输入图片说明](0.DevSecOps%20Overview/k9cw9whc0wkrn4f5w4ie.jpg)
+![输入图片说明](https://github.com/lab-mj/DevSecOps/blob/main/0.DevSecOps%20Overview/k9cw9whc0wkrn4f5w4ie.jpg)
